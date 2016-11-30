@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circledpen.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circledpen.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circledforward.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circledforward.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_custom_circledsave.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_action_custom_circledsave.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circledtick.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circledtick.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circledback.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circledback.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circledcopy.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circledcopy.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_arrowback.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_arrowback.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_custom_circledlist.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_action_custom_circledlist.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_circledpen.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_circledpen.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_overflow_btn_circles.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_overflow_btn_circles.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_custom_preferences.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_action_custom_preferences.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circledtrashbin.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circledtrashbin.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circleddot.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circleddot.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_custom_circledplus.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-mdpi/ic_custom_circledplus.png"
+    }
+]

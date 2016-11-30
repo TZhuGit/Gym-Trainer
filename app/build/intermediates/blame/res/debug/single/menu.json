@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/menu/menu_swj_settings.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/menu/menu_swj_settings.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/menu/workout_context_menu.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/menu/workout_context_menu.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/menu/workout_options_menu.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/menu/workout_options_menu.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/menu/menu_ex_report.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/menu/menu_ex_report.xml"
+    }
+]

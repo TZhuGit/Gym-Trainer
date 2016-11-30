@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_mmenu_unpressed.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_mmenu_unpressed.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_workoutedit_pressed.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_workoutedit_pressed.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_mmenu.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_mmenu.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_workoutedit_complementary.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_workoutedit_complementary.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_workoutedit_unpressed.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_workoutedit_unpressed.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_workoutedit.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_workoutedit.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/unpressed.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/unpressed.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/textview_workoutedit.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/textview_workoutedit.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/date_header_bg_complementary.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/date_header_bg_complementary.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/date_header_bg.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/date_header_bg.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/pressed.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/pressed.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/pressed_or_not.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/pressed_or_not.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_workoutedit_pressed_complementary.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_workoutedit_pressed_complementary.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_workoutedit_unpressed_complementary.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_workoutedit_unpressed_complementary.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable/button_mmenu_pressed.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable/button_mmenu_pressed.xml"
+    }
+]

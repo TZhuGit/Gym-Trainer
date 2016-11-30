@@ -1,0 +1,7 @@
+#Tue Oct 18 12:16:13 EDT 2016
+base.0=/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_26cd88481f8ab62444b39e7b7ed5c47a3f4d2215
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ebb79d91a062222b3202a326254f1ab95bdeabb4/classes.dex
+base.1=/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ebb79d91a062222b3202a326254f1ab95bdeabb4
+file.0=/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_26cd88481f8ab62444b39e7b7ed5c47a3f4d2215/classes.dex

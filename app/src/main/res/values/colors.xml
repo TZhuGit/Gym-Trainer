@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="baseColor">#000000</color>
+    <color name="baseColor_darker">#000000</color>
+    <color name="baseColor_lighter">#A9A9A9</color>
+    <color name="baseColor_lightest">#D3D3D3</color>
+
+    <color name="baseColor_complementary">#e56333</color>
+    <color name="baseColor_darker_complementary">#b44117</color>
+    <color name="baseColor_lighter_complementary">#ee9777</color>
+    <color name="baseColor_lightest_complementary">#f7cbbb</color>
+</resources>

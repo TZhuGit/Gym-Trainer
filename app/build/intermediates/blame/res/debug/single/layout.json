@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/layout/exercise_chooser_spinner.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/layout/exercise_chooser_spinner.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/layout/set_entry.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/layout/set_entry.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/layout/ex_to_report_list_entry.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/layout/ex_to_report_list_entry.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/layout/exercise_entry.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/layout/exercise_entry.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/layout/autocomplete_entry.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/layout/autocomplete_entry.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/layout/period_chooser_spinner.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/layout/period_chooser_spinner.xml"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/layout/activity_workout_journal.xml",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/layout/activity_workout_journal.xml"
+    }
+]

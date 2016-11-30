@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4dcdf41cadefd9bfec7d6121506f87d4be792e22">
+        <dex dex="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ebb79d91a062222b3202a326254f1ab95bdeabb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_85d66db7caf693567f0b332084ea1150b86a7ea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="758b9655611453dfacdea9335061bb9746e944d7">
+        <dex dex="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_26cd88481f8ab62444b39e7b7ed5c47a3f4d2215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_039b18c51ca61f3ca57531d0e58910a04a605efe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/T/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_9c35d2a428adacaec087dfef57a2fab5238610ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jjoe64-graphview-4.0.1_262fd706c30fec79761bd5498a5d8a1b1e41b3b9/classes.dex" />
+    </item>
+
+</items>

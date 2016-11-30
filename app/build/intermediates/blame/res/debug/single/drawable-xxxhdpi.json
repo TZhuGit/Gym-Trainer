@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/T/AndroidStudioProjects/swj-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_custom_circledcopy.png",
+        "source": "/Users/T/AndroidStudioProjects/swj-master/app/src/main/res/drawable-xxxhdpi/ic_custom_circledcopy.png"
+    }
+]
